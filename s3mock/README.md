@@ -16,4 +16,4 @@ to S3.  Then we can test the code by giving it a mock bucket from
 `s3mock.New().Bucket(name)`.  And we can use it with real AWS S3 by
 giving it a real bucket from `s3.New().Bucket(name)`.
 
-For more details, please refer to https://github.com/topicai/goamzmock/s3mock/exmaple.
+For more details, please refer to https://github.com/topicai/goamzmock/blob/master/s3mock/example/images.go
