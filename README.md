@@ -4,4 +4,6 @@
 
 `goamzmock` provides mocks of types defined in open source Go package
 `github.com/AdRoll/goamz`.  For more details, please check README.md
-files in each subpackage.
+files in each subpackage:
+
+1. [s3mock](https://github.com/topicai/goamzmock/tree/master/s3mock)
